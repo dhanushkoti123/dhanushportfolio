@@ -482,6 +482,9 @@ position: fixed;
   h1{
       font-size: 28px;
   }
+      #logo{
+        font-size: 23px;
+    }
 }
 
 @media screen and (max-width:350px){
